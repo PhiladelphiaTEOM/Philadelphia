@@ -10,7 +10,7 @@ chmod +x ts
 get() {
 rm -fr Philadelphia.lua
 جمهورية مقدونيا  -fr  سودو .lua
-wget  "https://raw.githubusercontent.com/Phil Philadelphia/Phil Philadelphia/master/Phil Philadelphia.lua "
+wget  "https://raw.githubusercontent.com/PhiladelphiaTEOM/Philadelphia/master/Philadelphia.lua "
 lua start.lua
 }
 installall(){
