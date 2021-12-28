@@ -9,8 +9,8 @@ chmod +x ts
 }
 get() {
 rm -fr Philadelphia.lua
-rm -fr sudo.lua
-wget "https://raw.githubusercontent.com/Philadelphia/Philadelphia/master/Philadelphia.lua"
+جمهورية مقدونيا  -fr  سودو .lua
+wget  "https://raw.githubusercontent.com/Phil Philadelphia/Phil Philadelphia/master/Phil Philadelphia.lua "
 lua start.lua
 }
 installall(){
